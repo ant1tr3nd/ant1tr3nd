@@ -27,7 +27,7 @@
 ---
 ## :man_technologist: About Me:
 ### I'm a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Donetsk.
-### - :books: At the moment, I'm studying at the university as a software engineer and additionally I'm studying myself according to the backend developer [roadmap](https://roadmap.sh/u/ant1tr3nd "My profile on roadmap")
-### - :desktop_computer: I have experience working with servers, websites, writing scripts, bots and databases
-### - :tongue: At the moment, my main programming language is Python. I also know and can use C and C++. In the future, I plan to expand my stack with the main backend and frontend languages
-### - :keyboard: In my free time, I read news from the IT world, solve [HackerRank](https://www.hackerrank.com/profile/ant1tr3nd "My profile")/[LeetCode](https://leetcode.com/u/ant1tr3nd/ "My profile") problems and [play video games](https://steamcommunity.com/id/VaYs07/ "My steam profile").
+### ● :books: At the moment, I'm studying at the university as a software engineer and additionally I'm studying myself according to the backend developer [roadmap](https://roadmap.sh/u/ant1tr3nd "My profile on roadmap")
+### ● :desktop_computer: I have experience working with servers, websites, writing scripts, bots and databases
+### ● :tongue: At the moment, my main programming language is Python. I also know and can use C and C++. In the future, I plan to expand my stack with the main backend and frontend languages
+### ● :keyboard: In my free time, I read news from the IT world, solve [HackerRank](https://www.hackerrank.com/profile/ant1tr3nd "My profile")/[LeetCode](https://leetcode.com/u/ant1tr3nd/ "My profile") problems and [play video games](https://steamcommunity.com/id/VaYs07/ "My steam profile").
