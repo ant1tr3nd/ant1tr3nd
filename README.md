@@ -23,6 +23,6 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/XGhZBLJcpdPUqCHyQr/giphy.gif?cid=ecf05e47afrc1034btkx1sogf9rqnocua5zfs3ym20wuhtcq&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="250"/>
+  <img src="https://media.giphy.com/media/XGhZBLJcpdPUqCHyQr/giphy.gif?cid=ecf05e47afrc1034btkx1sogf9rqnocua5zfs3ym20wuhtcq&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="300"/>
 </div>
  ### :man_technologist: About Me :
