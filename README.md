@@ -16,9 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=ant1tr3nd&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="badges" align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5rdTk2YTltdG8yZTAyc29qc242bXV4Zm40b2x6ZjFrNDZhejkzZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/jwaOyMu8Z3X9LOjkpC/giphy.gif" width="200px"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5rdTk2YTltdG8yZTAyc29qc242bXV4Zm40b2x6ZjFrNDZhejkzZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/jwaOyMu8Z3X9LOjkpC/giphy.gif" width="150px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/XGhZBLJcpdPUqCHyQr/giphy.gif?cid=ecf05e47afrc1034btkx1sogf9rqnocua5zfs3ym20wuhtcq&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="300"/>
