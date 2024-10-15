@@ -27,13 +27,19 @@
 ---
 ## :man_technologist: About Me:
 ### I'm a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Donetsk
-### ● :books: At the moment, I'm studying at the university as a software engineer and additionally I'm studying myself according to the backend developer [roadmap](https://roadmap.sh/u/ant1tr3nd "My profile on roadmap")
+### ● :books: At the moment, I'm studying at the university as a software engineer and additionally I'm studying myself according to the Backend Developer [Roadmap](https://roadmap.sh/u/ant1tr3nd "My profile on Roadmap.sh")
 ### ● :desktop_computer: I have experience working with servers, websites, writing scripts, bots, databases and git
 ### ● :tongue: At the moment, my main programming language is Python. I also know and can use C and C++. In the future, I plan to expand my stack with the main backend and frontend languages
 ### ● :keyboard: In my free time, I read news from the IT world, solve [HackerRank](https://www.hackerrank.com/profile/ant1tr3nd "My profile")/[LeetCode](https://leetcode.com/u/ant1tr3nd/ "My profile") problems and [play video games](https://steamcommunity.com/id/VaYs07/ "My steam profile")
 
 ---
-
+## :man_technologist: Обо мне:
+### Я начинающий Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Донецка
+### ● :books: Сейчас я учусь в университете на программного инженера и самостоятельно обучаюсь по Backend Developer [Roadmap](https://roadmap.sh/u/ant1tr3nd "Мой профиль на Roadmap.sh")
+### ● :desktop_computer: У меня есть опыт работы с серверами, веб-сайтами, написанием скриптов, ботов, базами данных и Git'ом
+### ● :tongue: Сейчас мой основной язык программирования это Python. Так же я знаю C и C++. В будущем я планирую расширить свой стэк основными Backend и Frontend языками
+### ● :keyboard: В свободное время я читаю новости из мира IT, решаю задачи на [HackerRank](https://www.hackerrank.com/profile/ant1tr3nd "Мой профиль")/[LeetCode](https://leetcode.com/u/ant1tr3nd/ "Мой профиль") и [играю в игры на пк/консоли](https://steamcommunity.com/id/VaYs07/ "Мой стим аккаунт")
+---
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
