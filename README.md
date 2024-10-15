@@ -26,8 +26,30 @@
 
 ---
 ## :man_technologist: About Me:
-### I'm a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Donetsk.
-### ● :books: At the moment, I'm studying at the university as a software engineer and additionally I'm studying   myself according to the backend developer [roadmap](https://roadmap.sh/u/ant1tr3nd "My profile on roadmap")
-### ● :desktop_computer: I have experience working with servers, websites, writing scripts, bots and databases
+### I'm a beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Donetsk
+### ● :books: At the moment, I'm studying at the university as a software engineer and additionally I'm studying myself according to the backend developer [roadmap](https://roadmap.sh/u/ant1tr3nd "My profile on roadmap")
+### ● :desktop_computer: I have experience working with servers, websites, writing scripts, bots, databases and git
 ### ● :tongue: At the moment, my main programming language is Python. I also know and can use C and C++. In the future, I plan to expand my stack with the main backend and frontend languages
-### ● :keyboard: In my free time, I read news from the IT world, solve [HackerRank](https://www.hackerrank.com/profile/ant1tr3nd "My profile")/[LeetCode](https://leetcode.com/u/ant1tr3nd/ "My profile") problems and [play video games](https://steamcommunity.com/id/VaYs07/ "My steam profile").
+### ● :keyboard: In my free time, I read news from the IT world, solve [HackerRank](https://www.hackerrank.com/profile/ant1tr3nd "My profile")/[LeetCode](https://leetcode.com/u/ant1tr3nd/ "My profile") problems and [play video games](https://steamcommunity.com/id/VaYs07/ "My steam profile")
+
+---
+
+## :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="50" height="50"/>&nbsp;
+</div>
+
+---
+
+## :fire: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ant1tr3nd&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ant1tr3nd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
