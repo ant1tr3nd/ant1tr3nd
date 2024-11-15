@@ -56,6 +56,9 @@
 
 ## :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ant1tr3nd&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ant1tr3nd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667d3c862028c2d818a130ec?variant=dark&roadmaps=backend%2Cpython" alt="roadmap.sh"/></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ant1tr3nd&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ant1tr3nd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/667d3c862028c2d818a130ec?variant=dark&roadmaps=backend%2Cpython)](https://roadmap.sh)
 
